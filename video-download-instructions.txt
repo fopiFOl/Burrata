@@ -1,0 +1,24 @@
+ИНСТРУКЦИИ ПО ЗАГРУЗКЕ ВИДЕОФАЙЛОВ
+
+Для полной работы сайта необходимо скачать два видеофайла:
+
+1. ГЛАВНОЕ ВИДЕО (для героической секции):
+   Ссылка: https://www.pontereale.com/wp-content/uploads/2023/05/pontereale-spot-2023-v3-compresso.mp4
+   Сохранить как: assets/videos/main-hero-video.mp4
+
+2. МАЛЕНЬКОЕ ВИДЕО (для контентной секции):
+   Ссылка: https://www.pontereale.com/wp-content/uploads/2023/05/video-bufale-pascolo.mp4
+   Сохранить как: assets/videos/small-buffalo-video.mp4
+
+КАК СКАЧАТЬ:
+1. Откройте каждую ссылку в браузере
+2. Нажмите правой кнопкой мыши на видео
+3. Выберите "Сохранить видео как..." или "Save video as..."
+4. Сохраните в папку assets/videos/ с указанными именами
+
+АЛЬТЕРНАТИВНЫЙ СПОСОБ (через командную строку):
+wget "https://www.pontereale.com/wp-content/uploads/2023/05/pontereale-spot-2023-v3-compresso.mp4" -O "assets/videos/main-hero-video.mp4"
+wget "https://www.pontereale.com/wp-content/uploads/2023/05/video-bufale-pascolo.mp4" -O "assets/videos/small-buffalo-video.mp4"
+
+После загрузки видеофайлов сайт будет полностью функционален.
+
